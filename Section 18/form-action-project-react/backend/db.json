@@ -1,0 +1,74 @@
+{
+  "opinions": [
+    {
+      "id": 1790600470752,
+      "votes": 0,
+      "userName": "ruzizidyry",
+      "title": "Repudiandae et unde ",
+      "body": "Dolor excepturi nobi"
+    },
+    {
+      "id": 1790600026503,
+      "votes": 0,
+      "userName": "rivasesa",
+      "title": "Sint dolores quasi ",
+      "body": "Laboris nisi exercit"
+    },
+    {
+      "id": 1790599922092,
+      "votes": 0,
+      "userName": "pajifefeqe",
+      "title": "Doloribus voluptatib",
+      "body": "Quis error do recusa"
+    },
+    {
+      "id": 1790599759788,
+      "votes": 0,
+      "userName": "vukemaz",
+      "title": "Suscipit rerum reici",
+      "body": "Quia possimus elige"
+    },
+    {
+      "id": 1790599735122,
+      "votes": 0,
+      "userName": "raxam",
+      "title": "Quo est ab est nostr",
+      "body": "Autem itaque adipisi"
+    },
+    {
+      "id": 1790599614747,
+      "votes": 0,
+      "userName": "rupiqoz",
+      "title": "Eligendi corrupti e",
+      "body": "Rem molestiae sed eo"
+    },
+    {
+      "id": 1790599564227,
+      "votes": 0,
+      "userName": "pamud",
+      "title": "Perspiciatis mollit",
+      "body": "Sit voluptatem Et a"
+    },
+    {
+      "id": 1790599304994,
+      "votes": 0,
+      "userName": "bupavi",
+      "title": "Aut eos quae archite",
+      "body": "Molestias dolorem ni"
+    },
+    {
+      "id": 1,
+      "userName": "Maximilian Schwarzmüller",
+      "title": "Do yourself a favor and learn React!",
+      "body": "React is an amazing JavaScript library!\n\nDespite all it's shortcomings.",
+      "votes": 0
+    },
+    {
+      "id": 2,
+      "userName": "Maximilian Schwarzmüller",
+      "title": "React has more depth than you might first think!",
+      "body": "React is a great library to learn, but it's not just about the basics. Dive deeper!\nFor example with this course!",
+      "votes": 0
+    }
+  ]
+}
